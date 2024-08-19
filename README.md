@@ -23,7 +23,7 @@ I don't like me at all. I've NEVER been confident. Since the day I tried cosplay
 ### 🪶 Reach me
 If you have any questions I am happy to help you. Welcome to chat with me anytime, anything. <br />
 [crepper@qq.com](mailto://crepper@qq.com) [xiaomengda12345@outlook.com](mailto://xiaomengda12345@outlook.com)
-### ⌨️ Artifacts with keyboard
+### ⌨️ Artifacts by keyboard
 [ℹ️ Personal Information (Details)](https://choneas.notion.site/I-am-Aether-Choneas-71cf59770358433a97a16dcdd7670a9b?pvs=4)
 [📖 Reading Records of 神州折剑录](https://choneas.notion.site/e1fd457a85da47de89101950f62091fc?pvs=4)
 
