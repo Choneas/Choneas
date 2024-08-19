@@ -1,10 +1,10 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=choneas&&style=flat-square" align="center" />
 </div>
+
 ## Meet Choneas is a little suprise of your life.
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Maybe+you+will+never+meet+me+again&duration=3000&repeat=false&color=ffffff&size=18)
-
 
 ### 💻 Working on
 Full stack developer. I'm a student currently, and now I'm preparing the C++ NOI exam for a better life in future. I hate the current but I can't do anything about this. At the same time, I know how to get along with the world.
@@ -28,7 +28,7 @@ If you have any questions I am happy to help you. Welcome to chat with me anytim
 [📖 Reading Records of 神州折剑录](https://choneas.notion.site/e1fd457a85da47de89101950f62091fc?pvs=4)
 
 ![符华大人的小赤鸢's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choneas&bg_color=30,191919,3d3d3d&title_color=fff&text_color=fff&hide_rank=true&hide_title=true)
-<img src="https://img.picui.cn/free/2024/08/20/66c38ee373907.jpg" align="left" height="405" width="720" /> <br />
+<img src="https://img.picui.cn/free/2024/08/20/66c38ee373907.jpg" align="left" height="472.50" width="840" />
 *Image by Rafa*
 
 <!--
