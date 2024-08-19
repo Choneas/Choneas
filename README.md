@@ -29,7 +29,7 @@ If you have any questions I am happy to help you. Welcome to chat with me anytim
 
 ![符华大人的小赤鸢's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choneas&bg_color=30,dfd4c1,ff8883&title_color=fff&text_color=fff&hide_rank=true&hide_title=true&show_icons=true)
 
-![符华 & 小识](https://img.picui.cn/free/2024/08/20/66c38ee373907.jpg){:class="img-responsive"}
+![符华 & 小识](https://img.picui.cn/free/2024/08/20/66c38ee373907.jpg)
 *Image by Rafa*
 
 <!--
