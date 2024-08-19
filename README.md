@@ -1,6 +1,6 @@
 ## Meet Choneas is a little suprise of your life.
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Maybe+you+will+never+meet+me+again...;)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Maybe+you+will+never+meet+me+again&pause=2&duration=3000&repeat=false&color=fffff)
 
 
 ### 💻 Working on
