@@ -17,6 +17,7 @@ I'm a student currently, and now I'm preparing the C++ NOI exam for a better lif
 ### 🥺 Afraid to
 I don't like me at all. I've NEVER been confident. Since the day I tried cosplay for the first time on the 27th of July 2024 and went to the Anime Expo, I've finally discovered a love for myself. However, I still don't like myself most of the time.
 ### 🪶 Reach me
+If you have any questions I am happy to help you. Welcome to chat with me anytime, anything.
 [crepper@qq.com](mailto://crepper@qq.com) [xiaomengda12345@outlook.com](mailto://xiaomengda12345@outlook.com)
 ### ⌨️ Artifacts with keyboard
 [ℹ️ Personal Information (Details)](https://choneas.notion.site/I-am-Aether-Choneas-71cf59770358433a97a16dcdd7670a9b?pvs=4)
