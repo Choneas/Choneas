@@ -15,7 +15,7 @@ Full stack developer. I'm a student currently, and now I'm preparing the C++ NOI
 - Making something new. 🪄
 - Buying some goods on miHoYo Gift. 🛒
 - Going to Anime Expo with dressing special costumes. 🥋
-- Playing `Honkai Impact 3rd`, `Genshin Impact` and `Star Rail`. 📖
+- Playing applications `Honkai Impact 3rd`, `Genshin Impact` and `Star Rail`. 📖
 - Fuhua / Phoenix / Master Jingwei / Fenghuang of Vicissitude 🪶
 - 符华 / 赤鸢 / 赤鸢仙人 / 浮生·渡尘之羽 🪶
 ### 🥺 Afraid to
