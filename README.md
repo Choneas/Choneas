@@ -28,7 +28,7 @@ If you have any questions I am happy to help you. Welcome to chat with me anytim
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=choneas&&style=flat-square" align="center" />
 </div>
-<img src="https://img.picui.cn/free/2024/08/20/66c38ee373907.jpg" align="left" height="405" width="720" />  
+<img src="https://img.picui.cn/free/2024/08/20/66c38ee373907.jpg" align="left" height="405" width="720" /> <br />
 <div align="center">
     *by my favorite artist @Rafa *
 </div>
