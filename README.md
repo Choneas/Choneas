@@ -27,7 +27,7 @@ If you have any questions I am happy to help you. Welcome to chat with me anytim
 [ℹ️ Personal Information (Details)](https://choneas.notion.site/I-am-Aether-Choneas-71cf59770358433a97a16dcdd7670a9b?pvs=4)
 [📖 Reading Records of 神州折剑录](https://choneas.notion.site/e1fd457a85da47de89101950f62091fc?pvs=4)
 
-![符华大人的小赤鸢's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choneas&bg_color=30,191919,3d3d3d&title_color=fff&text_color=fff&hide_rank=true&hide_title=true)
+![符华大人的小赤鸢's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choneas&bg_color=30,dfd4c1,ff8883&title_color=fff&text_color=fff&hide_rank=true&hide_title=true&show_icons=true)
 <img src="https://img.picui.cn/free/2024/08/20/66c38ee373907.jpg" align="left" height="472.50" width="840" />
 
 *Image by Rafa*
