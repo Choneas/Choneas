@@ -1,6 +1,7 @@
 ## Meet Choneas is a little suprise of your life.
 
-*Maybe you will never meet me again.*
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Maybe+you+will+never+meet+me+again.)
+
 
 ### 💻 Working on
 I'm a student currently, and now I'm preparing the C++ NOI exam for a better life in future. I hate the current but I can't do anything about this.
@@ -23,7 +24,7 @@ If you have any questions I am happy to help you. Welcome to chat with me anytim
 [ℹ️ Personal Information (Details)](https://choneas.notion.site/I-am-Aether-Choneas-71cf59770358433a97a16dcdd7670a9b?pvs=4)
 [📖 Reading Records of 神州折剑录](https://choneas.notion.site/e1fd457a85da47de89101950f62091fc?pvs=4)
 
-![符华大人的小赤鸢's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choneas)
+![符华大人的小赤鸢's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choneas&bg_color=30,d73a21,af0209&title_color=fff&text_color=fff&hide_rank=true&hide_title=true)
 
 <!--
 **Choneas/Choneas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
