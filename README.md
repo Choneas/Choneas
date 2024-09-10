@@ -24,8 +24,8 @@ I don't like me at all. I've NEVER been confident. Since the day I tried cosplay
 If you have any questions I am happy to help you. Welcome to chat with me anytime, anything. <br />
 [crepper@qq.com](mailto://crepper@qq.com) [xiaomengda12345@outlook.com](mailto://xiaomengda12345@outlook.com)
 ### ⌨️ Artifacts by keyboard
-[ℹ️ Personal Information (Details)](https://choneas.notion.site/I-am-Aether-Choneas-71cf59770358433a97a16dcdd7670a9b?pvs=4)
-[📖 Reading Records of 神州折剑录](https://choneas.notion.site/e1fd457a85da47de89101950f62091fc?pvs=4)
+[ℹ️ Personal Information (Details)](http://gg.gg/1c1u8f)
+[📖 Reading Records of 神州折剑录](http://gg.gg/shenzhoubrokenswordlegend)
 
 ![符华大人的小赤鸢's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choneas&bg_color=30,dfd4c1,ff8883&title_color=fff&text_color=fff&hide_rank=true&hide_title=true&show_icons=true)
 
